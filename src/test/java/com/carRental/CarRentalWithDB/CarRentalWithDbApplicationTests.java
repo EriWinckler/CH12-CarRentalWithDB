@@ -1,10 +1,10 @@
-package com.carrental.Car.Rental.with.DB;
+package com.carRental.CarRentalWithDB;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VehicleRentalWithDbApplicationTests {
+class CarRentalWithDbApplicationTests {
 
 	@Test
 	void contextLoads() {
